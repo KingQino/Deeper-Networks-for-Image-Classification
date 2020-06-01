@@ -6,4 +6,4 @@ When you select to train the model, you may need to change some parameters, e.g.
 Reference:
 >https://github.com/WZMIAOMIAO/deep-learning-for-image-processing/tree/master/pytorch_learning
 >https://github.com/39239580/googlenet-pytorch/blob/master/Inception_v1_mnist.py
->+https://www.kaggle.com/grfiv4/plot-a-confusion-matrix
+>https://www.kaggle.com/grfiv4/plot-a-confusion-matrix
